@@ -33,5 +33,5 @@ var tanda11=["solteiro // "]
 var tanda12=["Beyler, size ihtiyacım var"]
 var tanda13=["Mężczyźni, potrzebuję was"]
 var tanda14=["22y","23y","24y","25y","26y","27y"];
-var tanda15=[" | 🇧🇷"]
+var tanda15=[" // 🇧🇷"]
 var tanda16=["✻ ","✼ ","✾ ","✿ ","❀ ","❁ ","❃ ","❇ ","❈ ","❉ ","❊ ","✣ ","✤ "]
