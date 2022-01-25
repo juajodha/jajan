@@ -19,7 +19,7 @@ var tr1=["Özel bir akşam için yerel kadınlarla tanışın","Hoot kız ile ca
 var pl1=["Skontaktuj się ze mną tutaj","Inne prywatne informacje o mnie","Przyjdź porozmawiać ze mną na moim prywatnym profilu","prywatny czat i zadzwoń do mnie lub znajdź mnie","Czekając na partnera prywatnego 👄 Skontaktuj się ze mną","Skontaktuj się ze mną"," Skontaktuj się tutaj! 📩 Lets get private","Kliknij tutaj, aby zobaczyć prywatne na żywo","Zobacz więcej moich prywatnych zdjęć i filmów","Sprawdź podgląd mojego najnowszego filmu","Potrzebuję daty, Znajdź i prywatnie Zadzwoń do mnie","Jeśli mnie szukasz, skontaktuj się ze mną tutaj! wszystkie prywatne"];
     var pl2=["😘 Cześć,","🥰 Cześć chłopaki!","💦 Cześć tam,","👙 Jak to robisz?","🔞 Hej,","😜 Hej tam.","🥴 Yo!","👙 Howdy!","💦 G'day mate!","🔞 Hiya!","💦 Hej, co tam jest?","💦 Hej, ty!","🥰 Cześć chłopcy!"]
 	
-var tanda1=["🔞]
+var tanda1=["🔞 "]
 var tanda2=[" 👇"]
 var tanda3=["🤑 ","👻 ","😸 ","😹 ","💀 ","🤠 ","🥴 ","🤮 ","🤢 ","😈 ","☠ ","😻 ","😼 ","👽 ","👿 ","🤮 ","🤧 ","👹 ","👾 ","😽 ","🙀 ","🤖 ","👺 ","🤡 ","😷 ","🤒 ","🤕 ","🤡 ","🎃 ","😿 ","😾 ","😺 ","💩 ","🌷 ","🌹 ","🥀 ","🌺 ","🌸 ","🌼 ","🌻 ","🌞 ","💐 ","🌾 ","🐚 ","🍁 ","🍂 ","🍃 ","🎋 ","🍀 ","☘ ","🌿 ","🌱 ","🌴 ","🌳 ","🌲 ","💦 ","💧 ","💎 ","✧☾ ","✨ ","🦁 ","🌶 ","💥 ","🎼 ","💫 ","⚜ ","❄️ ","💙 ","👑 ","🎵 ","🔥 ","💋 ","🦅 ","🧸 "]
 var tanda4=["男、私はあなたが欲しい"]
